@@ -310,7 +310,7 @@ seq 3 | sed '2a hello'
 
 seq 2 | sed '2i hello'
 ## OUTPUT
-![Alt text](../../41.png)
+![Alt text](41.png)
 
 
 seq 10 | sed '2,9c hello'
@@ -340,7 +340,7 @@ cat > file21
 ``` 
 sort file21
 ## OUTPUT
-![Alt text](../../45.png)
+![Alt text](image-4.png)
 
 
 cat > file22
