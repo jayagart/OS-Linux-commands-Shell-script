@@ -43,14 +43,13 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![Alt text](../../1.png)
+![Alt text](image-5.png)
 
 
 cat < file2
 
 ## OUTPUT
-![Alt text](../../2.png)
-
+![Alt text](image-6.png)
 
 # Comparing Files
 cmp file1 file2
